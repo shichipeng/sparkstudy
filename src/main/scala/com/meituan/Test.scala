@@ -4,7 +4,7 @@ object Test {
 
   def main(args: Array[String]): Unit = {
 
-    println("哈哈哈")
+    println("哈哈哈哈")
   }
 
 }
